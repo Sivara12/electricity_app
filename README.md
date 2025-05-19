@@ -1,6 +1,9 @@
 # electricity_app
 Calculate the electricity price 
-electricity_app/
+
+
+
+electricity_app/  /n
 ├── app.py
 ├── templates/
 │   ├── index.html
